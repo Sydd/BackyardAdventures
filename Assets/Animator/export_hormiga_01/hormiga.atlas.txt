@@ -1,0 +1,55 @@
+
+hormiga.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hormiga_img/cabeza
+  rotate: false
+  xy: 2, 277
+  size: 238, 224
+  orig: 238, 224
+  offset: 0, 0
+  index: -1
+hormiga_img/cola
+  rotate: false
+  xy: 2, 83
+  size: 227, 192
+  orig: 227, 192
+  offset: 0, 0
+  index: -1
+hormiga_img/colmillo1
+  rotate: false
+  xy: 401, 343
+  size: 102, 158
+  orig: 102, 158
+  offset: 0, 0
+  index: -1
+hormiga_img/colmillo2
+  rotate: true
+  xy: 242, 224
+  size: 131, 133
+  orig: 131, 133
+  offset: 0, 0
+  index: -1
+hormiga_img/pata1
+  rotate: false
+  xy: 231, 145
+  size: 171, 77
+  orig: 171, 77
+  offset: 0, 0
+  index: -1
+hormiga_img/pata2
+  rotate: true
+  xy: 2, 5
+  size: 76, 197
+  orig: 76, 197
+  offset: 0, 0
+  index: -1
+hormiga_img/torso
+  rotate: false
+  xy: 242, 357
+  size: 157, 144
+  orig: 157, 144
+  offset: 0, 0
+  index: -1

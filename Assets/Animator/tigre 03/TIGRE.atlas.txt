@@ -1,0 +1,139 @@
+
+TIGRE.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tigre_img/001
+  rotate: false
+  xy: 481, 633
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tigre_img/antebraazo_2
+  rotate: false
+  xy: 229, 738
+  size: 234, 261
+  orig: 234, 261
+  offset: 0, 0
+  index: -1
+tigre_img/antebrazo_1
+  rotate: false
+  xy: 492, 496
+  size: 105, 135
+  orig: 105, 135
+  offset: 0, 0
+  index: -1
+tigre_img/antebrazo_2
+  rotate: false
+  xy: 822, 812
+  size: 179, 187
+  orig: 179, 187
+  offset: 0, 0
+  index: -1
+tigre_img/antebrazo_canon
+  rotate: false
+  xy: 2, 246
+  size: 186, 220
+  orig: 186, 220
+  offset: 0, 0
+  index: -1
+tigre_img/brazi_1
+  rotate: false
+  xy: 2, 3
+  size: 147, 241
+  orig: 147, 241
+  offset: 0, 0
+  index: -1
+tigre_img/brazo_2
+  rotate: false
+  xy: 465, 763
+  size: 178, 236
+  orig: 178, 236
+  offset: 0, 0
+  index: -1
+tigre_img/brazo_canon
+  rotate: false
+  xy: 645, 770
+  size: 175, 229
+  orig: 175, 229
+  offset: 0, 0
+  index: -1
+tigre_img/cabeza
+  rotate: false
+  xy: 2, 468
+  size: 217, 217
+  orig: 217, 217
+  offset: 0, 0
+  index: -1
+tigre_img/mano_1
+  rotate: false
+  xy: 190, 223
+  size: 96, 89
+  orig: 96, 89
+  offset: 0, 0
+  index: -1
+tigre_img/mano_2
+  rotate: false
+  xy: 221, 464
+  size: 173, 164
+  orig: 173, 164
+  offset: 0, 0
+  index: -1
+tigre_img/misil
+  rotate: true
+  xy: 229, 630
+  size: 106, 250
+  orig: 106, 250
+  offset: 0, 0
+  index: -1
+tigre_img/muslo_1
+  rotate: false
+  xy: 271, 314
+  size: 78, 148
+  orig: 78, 148
+  offset: 0, 0
+  index: -1
+tigre_img/muslo_2
+  rotate: false
+  xy: 190, 314
+  size: 79, 148
+  orig: 79, 148
+  offset: 0, 0
+  index: -1
+tigre_img/ojo1
+  rotate: false
+  xy: 288, 261
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+tigre_img/ojo2
+  rotate: false
+  xy: 288, 261
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+tigre_img/pierna_1
+  rotate: false
+  xy: 396, 458
+  size: 94, 170
+  orig: 94, 170
+  offset: 0, 0
+  index: -1
+tigre_img/pierna_2
+  rotate: false
+  xy: 396, 458
+  size: 94, 170
+  orig: 94, 170
+  offset: 0, 0
+  index: -1
+tigre_img/torso
+  rotate: false
+  xy: 2, 687
+  size: 225, 312
+  orig: 225, 312
+  offset: 0, 0
+  index: -1

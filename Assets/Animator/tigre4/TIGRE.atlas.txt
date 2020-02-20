@@ -1,0 +1,180 @@
+
+TIGRE.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tigre_img/001
+  rotate: false
+  xy: 410, 724
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tigre_img/antebraazo_2
+  rotate: false
+  xy: 264, 162
+  size: 234, 261
+  orig: 234, 261
+  offset: 0, 0
+  index: -1
+tigre_img/antebrazo_1
+  rotate: false
+  xy: 1924, 1354
+  size: 105, 135
+  orig: 105, 135
+  offset: 0, 0
+  index: -1
+tigre_img/antebrazo_2
+  rotate: false
+  xy: 1506, 758
+  size: 179, 187
+  orig: 179, 187
+  offset: 0, 0
+  index: -1
+tigre_img/antebrazo_canon (1)
+  rotate: true
+  xy: 2, 111
+  size: 273, 260
+  orig: 273, 260
+  offset: 0, 0
+  index: -1
+tigre_img/antebrazo_canon_mascara
+  rotate: true
+  xy: 544, 809
+  size: 136, 260
+  orig: 136, 260
+  offset: 0, 0
+  index: -1
+tigre_img/brazi_1
+  rotate: true
+  xy: 806, 798
+  size: 147, 241
+  orig: 147, 241
+  offset: 0, 0
+  index: -1
+tigre_img/brazo_2
+  rotate: true
+  xy: 1049, 767
+  size: 178, 236
+  orig: 178, 236
+  offset: 0, 0
+  index: -1
+tigre_img/brazo_canon (1)
+  rotate: false
+  xy: 229, 425
+  size: 206, 273
+  orig: 206, 273
+  offset: 0, 0
+  index: -1
+tigre_img/cabeza
+  rotate: false
+  xy: 1287, 728
+  size: 217, 217
+  orig: 217, 217
+  offset: 0, 0
+  index: -1
+tigre_img/mano_1
+  rotate: true
+  xy: 174, 13
+  size: 96, 89
+  orig: 96, 89
+  offset: 0, 0
+  index: -1
+tigre_img/mano_2
+  rotate: false
+  xy: 1687, 781
+  size: 173, 164
+  orig: 173, 164
+  offset: 0, 0
+  index: -1
+tigre_img/misil (1)
+  rotate: false
+  xy: 2, 700
+  size: 406, 152
+  orig: 406, 152
+  offset: 0, 0
+  index: -1
+tigre_img/muslo_1
+  rotate: false
+  xy: 1924, 1054
+  size: 78, 148
+  orig: 78, 148
+  offset: 0, 0
+  index: -1
+tigre_img/muslo_2
+  rotate: false
+  xy: 1924, 1204
+  size: 79, 148
+  orig: 79, 148
+  offset: 0, 0
+  index: -1
+tigre_img/ojo1
+  rotate: false
+  xy: 1862, 894
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+tigre_img/ojo2
+  rotate: false
+  xy: 1862, 894
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+tigre_img/pierna_1
+  rotate: true
+  xy: 2, 15
+  size: 94, 170
+  orig: 94, 170
+  offset: 0, 0
+  index: -1
+tigre_img/pierna_2
+  rotate: true
+  xy: 2, 15
+  size: 94, 170
+  orig: 94, 170
+  offset: 0, 0
+  index: -1
+tigre_img/sprite_lose
+  rotate: false
+  xy: 2, 854
+  size: 540, 91
+  orig: 540, 91
+  offset: 0, 0
+  index: -1
+tigre_img/sprite_losescene
+  rotate: false
+  xy: 2, 947
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+tigre_img/sprite_win
+  rotate: true
+  xy: 1924, 1491
+  size: 536, 92
+  orig: 536, 92
+  offset: 0, 0
+  index: -1
+tigre_img/torso
+  rotate: false
+  xy: 2, 386
+  size: 225, 312
+  orig: 225, 312
+  offset: 0, 0
+  index: -1
+
+TIGRE2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tigre_img/sprite_winscene
+  rotate: false
+  xy: 2, 840
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
